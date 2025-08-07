@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
-	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.cheesypoof</groupId>
-	<artifactId>hello-world</artifactId>
-
-	<version>0.0.2-SNAPSHOT</version>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.cheesypoof</groupId>
+  <artifactId>hello-world</artifactId>
+ 
+ <version>0.0.3-SNAPSHOT</version>
 	<name>hello-world</name>
-	<properties>
+
+<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
 		<log4j2-version>2.24.1</log4j2-version>
-
 	</properties>
 
 	<dependencies>
